@@ -79,12 +79,12 @@ cat("Hasil Akhir E(X) :", expected_value, "menit per hari kerja\n")
 
 ### Rincian Pembagian Pengerjaan (85% Mandiri vs 15% AI):
 
-- **Pengerjaan Mandiri (85%):**
+- **Pengerjaan Mandiri (84%):**
   1. Menentukan topik studi kasus (gangguan jaringan internet di tempat kerja).
   2. Menyusun variabel kondisi jaringan ($X_1, X_2, X_3$), menentukan asumsi bobot probabilitas, serta durasi gangguan.
   3. Melakukan perhitungan matematis manual menggunakan rumus nilai ekspektasi $E(X)$ beserta analisis kesimpulan hasil akhir.
   4. Menyusun laporan awal studi kasus (`Rifki Ramadan_tugas 2.pdf`).
-- **Bantuan Tools AI (15%):**
+- **Bantuan Tools AI (16%):**
   1. Membantu menerjemahkan rumus perhitungan manual dari dokumen laporan ke dalam sintaks _script_ bahasa R (`data.frame` dan operasi vektor).
   2. Membantu merapikan struktur format _Markdown_ pada dokumentasi `README.md` untuk pelaporan di GitHub.
 
@@ -99,3 +99,4 @@ cat("Hasil Akhir E(X) :", expected_value, "menit per hari kerja\n")
 - `README.md` - Dokumentasi utama pelaporan proyek di GitHub (untuk presensi dan penilaian).
 - `Rifki Ramadan_tugas 2.pdf` - Dokumen laporan studi kasus dan perhitungan matematis awal.
 - `scrip.R` - File kode program dalam bahasa R untuk menjalankan perhitungan model.
+- `GPTZero AI Scan - Rifki Ramadan_tugas 2.docx` - Dokumentasi GPTZero.
